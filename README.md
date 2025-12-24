@@ -14,6 +14,8 @@ Este framework implementa sistemas de KPIs probados en entornos de producción p
 
 ## 🏢 Casos de Uso
 
+✅ Necesidad de medidores confiables en contextos de inteligencia empresarial
+✅ Análisis de Datos
 ✅ Distribuidores mayoristas  
 ✅ E-commerce B2B  
 ✅ Empresas de suministros industriales  
@@ -102,12 +104,6 @@ bi-kpi-framework/
 - **Matplotlib/Plotly** - Visualizaciones
 - **Jupyter** - Análisis interactivo
 
-## 📖 Documentación
-
-- [Metodología de KPIs](docs/methodology.md) - Explicación detallada de cada métrica
-- [Casos de Uso](docs/use_cases.md) - Aplicaciones por industria
-- [Guía de Implementación](docs/implementation_guide.md) - Cómo adaptar a tu organización
-
 ## 🎓 Principios de Diseño
 
 1. **Confiabilidad sobre Cantidad:** Pocos KPIs 100% confiables > Muchos KPIs dudosos
@@ -117,7 +113,7 @@ bi-kpi-framework/
 
 ## 💡 Inspiración
 
-Este framework surge de experiencia real implementando sistemas de KPIs en entornos de producción con miles de transacciones diarias. Los sistemas aquí documentados han demostrado su valor en:
+Este framework surge de experiencia real implementando sistemas de KPIs en entornos de producción con transacciones diarias. Los sistemas aquí documentados han demostrado su valor en:
 - Justificación de bonos por performance
 - Optimización de distribución de carga laboral
 - Detección de patrones de especialización
@@ -127,14 +123,6 @@ Este framework surge de experiencia real implementando sistemas de KPIs en entor
 
 MIT License - Ver [LICENSE](LICENSE) para detalles
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor:
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ---
 
