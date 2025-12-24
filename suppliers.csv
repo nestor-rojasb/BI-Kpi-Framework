@@ -1,0 +1,51 @@
+supplier_id,supplier_name,supplier_type,payment_terms,rating
+SUP0001,"Garcés, Rivas y Reyes S.A.",Nacional,30,4.5
+SUP0002,"Díaz, López y Suazo Limitada",Nacional,45,3.3
+SUP0003,"Corporación Olate, Navarrete y Salgado S.p.A.",Nacional,30,4.2
+SUP0004,Donoso Limitada,Nacional,30,3.2
+SUP0005,Grupo Flores y Asociados S.A.,Nacional,30,4.1
+SUP0006,"Compañía González, Torres y Hidalgo Limitada",Internacional,45,3.9
+SUP0007,Torres y Castro Sociedad Anónima,Internacional,30,4.5
+SUP0008,"Rosales, Sandoval y Vidal Sociedad Anónima",Nacional,90,3.7
+SUP0009,Olivares SPA,Nacional,45,4.9
+SUP0010,Troncoso y Pérez Limitada,Internacional,30,3.2
+SUP0011,Marín S.p.A.,Nacional,60,4.7
+SUP0012,Cecilia Isabel González González EIRL,Internacional,30,4.5
+SUP0013,"Muñoz, Marín y Díaz S.A.",Nacional,90,3.2
+SUP0014,"Proyectos Órdenes, Becerra y Valenzuela Limitada",Internacional,60,4.2
+SUP0015,"Henríquez, Gajardo y Leal S.p.A.",Nacional,30,4.3
+SUP0016,Arredondo y Arroyo Ltda.,Internacional,30,4.7
+SUP0017,"Despacho Valenzuela, Molina y Vásquez Sociedad Anónima",Nacional,90,3.6
+SUP0018,Despacho Barrera y Asociados Limitada,Internacional,45,3.7
+SUP0019,"Laboratorio Toledo, Parra y Ampuero S.A.",Nacional,60,4.4
+SUP0020,María Lidia Calderón Aravena EIRL,Nacional,45,4.1
+SUP0021,"Segovia, Figueroa y Blanco Limitada",Nacional,45,3.9
+SUP0022,"Club Jiménez, Oyarzo y Astete S.A.",Internacional,45,4.4
+SUP0023,"Compañía García, Vargas y Robles Ltda.",Nacional,45,4.6
+SUP0024,Javier Rubio E.I.R.L.,Internacional,90,3.5
+SUP0025,Compañía Toledo y Asociados Sociedad Anónima,Nacional,60,3.4
+SUP0026,"Proyectos Cáceres, Gaete y Sepúlveda SPA",Internacional,90,4.8
+SUP0027,Felipe Sergio Leiva Cerda EIRL,Internacional,45,3.5
+SUP0028,"Iturra, Guerra y Muñoz Limitada",Nacional,60,4.5
+SUP0029,Álvarez y Bustos Ltda.,Internacional,90,3.7
+SUP0030,Campos y Segura Limitada,Nacional,90,3.2
+SUP0031,Club González y Asociados SPA,Nacional,30,3.3
+SUP0032,Marcelo Patricio Gutiérrez Arriagada EIRL,Nacional,90,4.2
+SUP0033,Matías Muñoz Contreras EIRL,Internacional,90,4.2
+SUP0034,José Kevin Rodríguez Fuentes E.I.R.L.,Internacional,60,4.9
+SUP0035,María Rosa Huerta Alegría EIRL,Nacional,30,4.4
+SUP0036,Edson Ortega Santana E.I.R.L.,Internacional,60,3.2
+SUP0037,Lobos SPA,Internacional,45,3.9
+SUP0038,Compañía Cárdenas y Asociados Ltda.,Internacional,45,4.0
+SUP0039,Juana Mariana Vargas González EIRL,Nacional,60,4.7
+SUP0040,Holding García y Salinas Limitada,Nacional,45,3.7
+SUP0041,Villa y López Ltda.,Nacional,30,4.2
+SUP0042,Yuliana Saldías Candia E.I.R.L.,Internacional,30,3.2
+SUP0043,"Club Núñez, Palma y Jorquera Ltda.",Internacional,60,3.5
+SUP0044,Mariana Bárbara Miranda Veas E.I.R.L.,Nacional,30,3.2
+SUP0045,Corporación Bobadilla y Asociados Ltda.,Internacional,30,5.0
+SUP0046,Oscar Cifuentes EIRL,Nacional,45,4.3
+SUP0047,Ojeda Sociedad Anónima,Nacional,60,4.1
+SUP0048,"Valdés, Sánchez y Pizarro Ltda.",Internacional,45,4.9
+SUP0049,Génesis Robles Faúndez E.I.R.L.,Nacional,60,3.8
+SUP0050,Grupo Mardones y Asociados SPA,Internacional,90,4.8
