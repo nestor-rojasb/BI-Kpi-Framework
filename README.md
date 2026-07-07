@@ -5,25 +5,25 @@
 
 Sistema modular de KPIs para análisis de operaciones B2B basado en datos de órdenes de compra, productos, proveedores e inventario.
 
-## 🎯 Propósito
+## Propósito
 
 Este framework implementa sistemas de KPIs probados en entornos de producción para medir:
 - **Carga laboral** de equipos analíticos considerando complejidad, no solo volumen
 - **Performance operacional** con métricas confiables al 100%
 - **Eficiencia financiera** en operaciones de compra-venta
 
-## 🏢 Casos de Uso
+## Casos de Uso
 
-✅ Necesidad de medidores confiables en contextos de inteligencia empresarial
-✅ Análisis de Datos
-✅ Distribuidores mayoristas  
-✅ E-commerce B2B  
-✅ Empresas de suministros industriales  
-✅ Retail corporativo  
-✅ Operaciones de procurement  
-✅ Centros de procesamiento de pedidos  
+- Necesidad de medidores confiables en contextos de inteligencia empresarial
+- Análisis de Datos
+- Distribuidores mayoristas  
+- E-commerce B2B  
+- Empresas de suministros industriales  
+- Retail corporativo  
+- Operaciones de procurement  
+- Centros de procesamiento de pedidos  
 
-## 📊 KPIs Implementados
+## KPIs Implementados
 
 ### 1. Analyst Workload System
 **Problema:** Medir carga de trabajo solo por volumen ignora la complejidad real.
@@ -60,7 +60,7 @@ Este framework implementa sistemas de KPIs probados en entornos de producción p
 - Concentración de proveedores
 - Eficiencia en gestión de montos
 
-## 🚀 Inicio Rápido
+## Inicio Rápido
 
 ```bash
 # Clonar repositorio
@@ -77,7 +77,7 @@ python data/synthetic/generate_data.py
 jupyter notebook notebooks/01_analyst_workload.ipynb
 ```
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 bi-kpi-framework/
@@ -96,7 +96,7 @@ bi-kpi-framework/
 └── examples/               # Ejemplos por industria
 ```
 
-## 🔧 Tecnologías
+## Tecnologías
 
 - **Python 3.8+**
 - **Pandas** - Manipulación de datos
@@ -104,14 +104,14 @@ bi-kpi-framework/
 - **Matplotlib/Plotly** - Visualizaciones
 - **Jupyter** - Análisis interactivo
 
-## 🎓 Principios de Diseño
+## Principios de Diseño
 
 1. **Confiabilidad sobre Cantidad:** Pocos KPIs 100% confiables > Muchos KPIs dudosos
 2. **Contexto sobre Volumen:** Complejidad importa tanto como cantidad
 3. **Accionable:** Cada KPI debe impulsar decisiones específicas
 4. **Generalizable:** Metodología aplicable a múltiples industrias
 
-## 💡 Inspiración
+## Inspiración
 
 Este framework surge de experiencia real implementando sistemas de KPIs en entornos de producción con transacciones diarias. Los sistemas aquí documentados han demostrado su valor en:
 - Justificación de bonos por performance
@@ -119,7 +119,7 @@ Este framework surge de experiencia real implementando sistemas de KPIs en entor
 - Detección de patrones de especialización
 - Identificación de cuellos de botella operacionales
 
-## 📄 Licencia
+## Licencia
 
 MIT License - Ver [LICENSE](LICENSE) para detalles
 
