@@ -1,23 +1,14 @@
-# 📊 Business Intelligence KPI Framework - Resumen del Proyecto
-
-## 🎯 Qué Hemos Creado
-
-Un framework profesional de KPIs listo para:
-- ✅ Subir a GitHub
-- ✅ Incluir en tu CV
-- ✅ Presentar en entrevistas
-- ✅ Usar como portfolio de habilidades
+# Business Intelligence KPI Framework - Resumen del Proyecto
 
 ---
 
-## 📦 Contenido del Repositorio
+## Contenido del Repositorio
 
 ### Archivos de Configuración
 - **README.md** (80 líneas) - Página principal del repositorio
 - **LICENSE** - MIT License
 - **.gitignore** - Configurado para Python
 - **requirements.txt** - Dependencias del proyecto
-- **GITHUB_SETUP.md** - Guía paso a paso para subir a GitHub
 - **INTERVIEW_GUIDE.md** - Cómo hablar del proyecto en entrevistas
 
 ### Código Principal (772 líneas)
@@ -73,7 +64,7 @@ Un framework profesional de KPIs listo para:
 
 ---
 
-## 🔑 Características Clave
+## Características Clave
 
 ### 1. Basado en Experiencia Real
 - No es un proyecto de tutorial
@@ -105,7 +96,7 @@ Un framework profesional de KPIs listo para:
 
 ---
 
-## 📊 Estadísticas del Proyecto
+## Estadísticas del Proyecto
 
 ```
 Total de Archivos:        20+
@@ -115,139 +106,6 @@ Líneas Totales:           1,500+
 Datasets Generados:       6
 Registros Sintéticos:     21,751
 ```
-
----
-
-## 🚀 Próximos Pasos
-
-### 1. Subir a GitHub (10 minutos)
-```bash
-cd bi-kpi-framework
-git init
-git add .
-git commit -m "Initial commit: BI KPI Framework"
-git remote add origin https://github.com/TU-USUARIO/bi-kpi-framework.git
-git branch -M main
-git push -u origin main
-```
-
-Ver detalles en: **GITHUB_SETUP.md**
-
-### 2. Actualizar tu CV
-```
-Proyectos Destacados:
-• Business Intelligence KPI Framework
-  - Framework modular para análisis de operaciones B2B
-  - 3 sistemas de KPI: carga laboral, procesamiento operacional, métricas financieras
-  - Metodología probada en producción, generalizable a múltiples industrias
-  - Stack: Python, Pandas, Jupyter, Git
-  - GitHub: github.com/TU-USUARIO/bi-kpi-framework
-```
-
-### 3. Actualizar LinkedIn
-- Agrega como proyecto en la sección de proyectos
-- Menciona en summary/about
-- Comparte un post explicando el proyecto
-
-### 4. Preparar para Entrevistas
-Lee: **INTERVIEW_GUIDE.md**
-- Practica el elevator pitch
-- Revisa las preguntas comunes
-- Navega el código con fluidez
-
----
-
-## 💡 Valor que Demuestra este Proyecto
-
-### Habilidades Técnicas
-- ✅ Python avanzado (Pandas, NumPy)
-- ✅ Análisis de datos
-- ✅ Visualización
-- ✅ Modelado de datos
-- ✅ Git/GitHub
-- ✅ Documentación técnica
-
-### Habilidades de Negocio
-- ✅ Pensamiento analítico
-- ✅ Resolución de problemas
-- ✅ Diseño de KPIs
-- ✅ Business intelligence
-- ✅ Comunicación de insights
-
-### Soft Skills
-- ✅ Atención al detalle
-- ✅ Pensamiento sistemático
-- ✅ Documentación clara
-- ✅ Adaptabilidad (framework generalizable)
-- ✅ Orientación a resultados
-
----
-
-## 🎯 Diferenciadores
-
-**¿Qué hace único a este proyecto?**
-
-1. **No es genérico**: Resuelve problemas específicos con soluciones concretas
-2. **Está fundamentado**: Cada decisión de diseño tiene una razón documentada
-3. **Es práctico**: No es teoría - viene de aplicación real
-4. **Es profesional**: Documentación, estructura, y calidad de código son production-ready
-5. **Es tuyo**: No es un fork, no es un tutorial seguido - es trabajo original
-
----
-
-## 📝 Checklist Final
-
-Antes de tu próxima entrevista, asegúrate de:
-
-- [ ] Proyecto subido a GitHub
-- [ ] README se ve bien en GitHub
-- [ ] Agregaste topics/tags al repositorio
-- [ ] Actualizaste CV con el proyecto
-- [ ] Actualizaste LinkedIn
-- [ ] Leíste INTERVIEW_GUIDE.md
-- [ ] Practicaste el elevator pitch
-- [ ] Puedes navegar el código con confianza
-- [ ] Entiendes cada sistema profundamente
-- [ ] Puedes explicar decisiones de diseño
-
----
-
-## 🌟 Recuerda
-
-Este proyecto no solo demuestra que sabes Python o pandas. Demuestra que:
-
-1. **Entiendes problemas de negocio reales**
-2. **Diseñas soluciones elegantes y prácticas**
-3. **Priorizas calidad sobre complejidad**
-4. **Documentas profesionalmente**
-5. **Piensas de forma generalizable**
-
-Esas son las habilidades que diferencian a un analista junior de uno senior.
-
----
-
-## 📞 Tips para Entrevistas
-
-**Si te preguntan "¿Por qué este proyecto?":**
-
-*"Identifiqué un problema común en operaciones: los KPIs tradicionales miden volumen pero ignoran complejidad. Diseñé un framework que resuelve esto con tres sistemas complementarios. Lo documenté de forma generalizable porque me di cuenta que aplica a cualquier industria con operaciones de complejidad variable. Es el tipo de trabajo que me apasiona - convertir problemas complejos en soluciones claras y accionables."*
-
-**Si te preguntan sobre siguiente paso:**
-
-*"Si tuviera más tiempo, agregaría: (1) tests unitarios con pytest, (2) dashboard interactivo con Streamlit, (3) integración con bases de datos reales, y (4) sistema de alertas automáticas. Pero prioricé tener un MVP sólido con documentación completa antes que features adicionales."*
-
----
-
-## 🎓 Lo Más Importante
-
-Este proyecto te posiciona como alguien que:
-- ❌ NO solo hace dashboards
-- ❌ NO solo ejecuta queries
-- ✅ **SÍ diseña sistemas de medición**
-- ✅ **SÍ entiende problemas de negocio**
-- ✅ **SÍ crea soluciones escalables**
-
-Eso es lo que buscan las empresas en roles de BI/Analytics senior.
 
 ---
 
